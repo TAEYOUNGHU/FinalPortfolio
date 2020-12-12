@@ -1,0 +1,28 @@
+@charset "utf-8";
+
+#header {
+    flex-direction: column;
+    height:140px;
+}
+#header .title {
+    width:100%;
+    height:70px;
+}
+#header .login {
+    width:100%;
+    height:70px;
+    padding:0px;
+    background:none;
+}
+#header .login button {
+    height:30px;
+    width:70px;
+    font-size:0.8rem;
+    margin:0 10px;
+}
+#header .seletor {
+    padding:0.4rem;
+}
+
+
+
